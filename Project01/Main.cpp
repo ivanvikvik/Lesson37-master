@@ -2,7 +2,9 @@
 
 using namespace std;
 
-int main() {
+int sum(int, int);
 
+int main() {
+	cout << sum(6, 8) << endl;
 	return 0;
 }
